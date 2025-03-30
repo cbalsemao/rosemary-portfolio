@@ -1,0 +1,231 @@
+{
+  "navbar": {
+    "menu": "Menu",
+    "about-us": "About Us",
+    "contact": "Contact"
+  },
+  "about-us": {
+    "title": "About Us",
+    "description": "Welcome to Rosemary, your new vegan spot in the heart of Alicante. Here, we are passionate about offering delicious, healthy, and eco-friendly food that makes you feel good inside and out. At Rosemary, we create irresistible dishes with fresh, local ingredients, always with a Mediterranean touch. From colorful salads to nutritious bowls and delicious desserts, our recipes are full of flavor and wellness. We care about the planet! That’s why we are committed to sustainability, supporting local farmers and using seasonal ingredients. Whether you're vegan or just curious, come and enjoy tasty food that's good for you and the environment. Eat fresh, live green, and savor every bite at Rosemary."
+  },
+  "menu": {
+    "title": "Menu",
+    "description": "From street food to daily specials, salads, soups, drinks, and desserts. We always offer gluten-free options on the menu, identified with the symbol ϒ. For other allergies or intolerances, ask our staff or check the list of ingredients. Our bread, made with whole wheat flour, is fermented with sourdough."
+  },
+  "contact": {
+    "location": "Location",
+    "contact": "Contact",
+    "social-media": "Follow us"
+  },
+
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "greeting": "Dear User,",
+    "intro": "Rosemary, as the data controller, wishes to provide you with information about the browsing data collected when accessing rosemaryveggie.com, in accordance with Article 13 of EU Regulation 2016/679 (General Data Protection Regulation - GDPR). This is in compliance with Directive 2009/136/EC on Electronic Communications, Directive 2002/58/EC regarding the processing of personal data and the protection of privacy in the electronic communications sector, and the General Regulation of May 8, 2014, issued by the Data Protection Authority.",
+    "dataProcessingLocation": {
+      "title": "Data Processing Location",
+      "content": "Data processing related to the website takes place on the servers that host it, under the responsibility of the bandwidth and domain providers. No data derived from the web service will be disclosed. For more information, please refer to the ",
+      "linkText": "GoDaddy Privacy Policy."
+    },
+    "contactInfoUsage": {
+      "title": "Use of Contact Information",
+      "content": "Information provided by users through the contact form will be used solely for communication purposes. This information will not be used for any other purpose and will not be shared with third parties."
+    },
+    "dataAccessSubjects": {
+      "title": "Parties Who May Access Your Personal Data",
+      "content": "For purposes related to providing the requested service, your data may be processed by authorized data processors who manage the services. These processors are third-party companies expressly authorized to perform support activities, as specified in the data usage table. Personal data will not be disclosed."
+    },
+    "dataProvision": {
+      "title": "Data Provision",
+      "content": "No data provision is required."
+    },
+    "navigationData": {
+      "title": "Browsing Data",
+      "content": "The computer systems and software procedures for operating this website may collect certain data during normal use. The transmission of such data is implicit in the use of Internet communication protocols."
+    },
+    "navigationDataDetail": "This category of data may include IP addresses or domain names of the computers used by users accessing the site, the address in URI (Uniform Resource Identifier) notation of the requested resources, the time of the request, the method used to submit the request to the server, the size of the file obtained in response, the numeric code indicating the status of the server's response (e.g., success, error), and other parameters related to the user's operating system and computer environment. This information is only processed if specific monitoring procedures are activated.",
+    "cookiesReference": "Please refer to the site's Cookie Policy.",
+    "navigationDataAccess": {
+      "title": "Parties Who May Access Your Browsing Data",
+      "content": "Browsing data may be shared with third parties only to comply with legal obligations or orders from public authorities, to investigate potential cyber crimes, or to exercise legal rights in court."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "content": "Please refer to the specific section ",
+      "linkText": "Cookie Policy."
+    },
+    "rights": {
+      "title": "Your Rights",
+      "intro": "As a data subject, you are entitled to the rights mentioned in Articles 15–22 of GDPR 2016/679 by contacting the Data Controller:",
+      "access": "Access to your data, data categories, recipients, retention periods, and origins (Article 15)",
+      "correction": "Correction of inaccurate personal data (Article 16)",
+      "deletion": "Deletion of your data ('right to be forgotten') (Article 17)",
+      "limitation": "Restriction of processing concerning your data (Article 18)",
+      "opposition": "Object to processing of your data for public interest tasks or legitimate interests (Article 21)",
+      "complaint": "Lodge a complaint with the Supervisory Authority (Article 77)"
+    },
+    "dataControllerContact": {
+      "contact": "To exercise your rights, you can contact the Data Controller at:",
+      "title": "Data Controller Contact",
+      "address": "Address: Rosemary, Calle Mayor 41, 03002 Alicante, Spain",
+      "email": "Email: rosemaryveggiefood@gmail.com",
+      "phone": "Phone: +34 656 680 264"
+    }
+  },
+  "cookiePolicyData": {
+    "title": "Cookie Policy",
+    "greeting": "Dear User,",
+    "intro": "rosemary, located at Calle Mayor 41, 03002 Alicante, Spain, aims to inform users about cookies managed when accessing rosemaryveggie.com, in compliance with the Directive on Electronic Communications 2009/136/EC, Directive 2002/58/EC regarding the processing of personal data and the protection of privacy in the electronic communications sector, and the General Regulation of May 8, 2014, issued by the Data Protection Authority.",
+    "whatAreCookies": {
+      "title": "What are cookies",
+      "content1": "Cookies are small text files that the sites visited by users send to their terminals, usually stored in the browser folder, to be sent back to the same sites on the next visit. These enable the website manager to enhance the browsing experience and the site's functionality, making interactions faster and more personalized. They allow the site manager to determine if a computer (and probably the respective user) has visited the website before or to remember items in the cart for an e-commerce site.",
+      "content2": "Cookies, by themselves, do not contain personal information, but they can be linked to it; in such cases, user consent is required."
+    },
+    "cookieTypes": {
+      "title": "Types of cookies based on their purposes",
+      "technical": {
+        "title": "Technical cookies:",
+        "content": "These are used solely to \"transmit a communication over an electronic communications network or to the extent strictly necessary for the provider of an information society service explicitly requested by the subscriber or user to provide that service\" (cf. art. 122, paragraph 1, of the Code). They are not used for other purposes and are normally installed directly by the website owner or manager. They can be subdivided into:",
+        "navigationOrSession": {
+          "title": "Navigation or session cookies:",
+          "content": "They ensure normal navigation and use of the website, are not stored persistently on the user's computer, and are deleted when the browser is closed (allowing, for example, purchases or authentication to access reserved areas)."
+        },
+        "analytics": {
+          "title": "Analytics cookies:",
+          "content": "They are treated as technical cookies when used directly by the site manager to collect aggregated information about the number of users and how they visit the site."
+        },
+        "functionality": {
+          "title": "Functionality cookies:",
+          "content": "They allow the user to navigate according to selected criteria (e.g., language, products selected for purchase) to improve the service provided."
+        },
+        "installationNotice": "The installation of these cookies does not require prior consent from users."
+      },
+      "profiling": {
+        "title": "Profiling cookies:",
+        "content": "These are aimed at creating user profiles and are used to send advertising messages aligned with the preferences expressed by the user while browsing the web. Given their invasive nature regarding user privacy, European and Italian regulations require that the user be adequately informed and give explicit consent.",
+        "advertising": {
+          "title": "Advertising:",
+          "content": "These cookies track the user's web browsing and create profiles based on tastes, habits, and choices. They enable sending advertising messages aligned with preferences expressed during browsing."
+        },
+        "behavioral": {
+          "title": "Behavioral:",
+          "content": "These cookies collect data on browsing habits and preferences, creating profiles or customizations for market research or targeted marketing."
+        },
+        "installationNotice": "The installation of these cookies requires prior consent from users."
+      },
+      "cookieSubjects": {
+        "title": "Types of cookies based on the subjects involved",
+        "siteManagerCookies": {
+          "title": "Site manager cookies:",
+          "content": "These cookies are installed by the site owner."
+        },
+        "thirdPartyCookies": {
+          "title": "Third-party cookies:",
+          "content": "These cookies are installed by entities other than the site owner, often through banners or content on the site."
+        }
+      },
+      "cookieDuration": {
+        "title": "Types of cookies based on their duration",
+        "sessionCookies": {
+          "title": "Session cookies:",
+          "content": "These are automatically deleted at the end of the browsing session."
+        },
+        "persistentCookies": {
+          "title": "Persistent cookies:",
+          "content": "Their duration is set by the server when created. Some have a specific expiration date; others last indefinitely."
+        }
+      }
+    },
+    "userNotification": {
+      "title": "How to notify the user and obtain their consent",
+      "content": "When visiting the site for the first time, a banner informs the user about cookie usage. The banner offers more information and a link to the relevant page. To proceed, the user must explicitly accept cookies. The site will store a technical cookie to record this choice, which can be deleted at any time through browser settings."
+    },
+    "browserInstructions": {
+      "title": "How to enable/disable cookies through the browser",
+      "content": "You can accept, reject, or set up warnings before accepting cookies by modifying your browser settings. Completely disabling cookies may affect the functionality of our site.",
+      "content2": "You can delete all cookies stored in your browser's cookie folder. Since each browser has different procedures for managing cookies, the specific instructions for each type are provided below:"
+    },
+    "contact": {
+      "title": "Contact",
+      "content": "If you have any questions about this cookie policy, please contact us at",
+      "email": "rosemaryveggiefood@gmail.com"
+    },
+    "cookiesTable": [
+      {
+        "name": "_tccl_visitor",
+        "description": "Collects aggregated and anonymized data about site performance.",
+        "type": "Analytics",
+        "management": "GoDaddy",
+        "duration": "1 year"
+      },
+      {
+        "name": "_tccl_visit",
+        "description": "Collects anonymized data to improve site performance.",
+        "type": "Analytics",
+        "management": "GoDaddy",
+        "duration": "1 hour"
+      },
+      {
+        "name": "_scc_session",
+        "description": "Manages the user session.",
+        "type": "Other",
+        "management": "Internal",
+        "duration": "20 minutes"
+      }
+    ],
+    "thirdPartyCookiesBlocking": {
+      "title": "Blocking third-party cookies",
+      "content": "Third-party cookies are generally not essential for browsing. You can block them by default using browser functions or by installing browser add-ons such as Ghostery."
+    },
+    "doNotTrackOption": {
+      "title": "Do Not Track option",
+      "content": "Most browsers offer a Do Not Track option. When enabled, websites respecting this setting will stop collecting certain browsing data."
+    },
+    "incognitoMode": {
+      "title": "Enable \"incognito browsing\" mode",
+      "content": "This mode allows you to browse without leaving traces in the browser, as visited pages and cookies will not be stored. However, this does not guarantee anonymity, as browsing data remains visible to website managers and internet service providers.",
+      "content2": "Incognito mode helps prevent storing browsing data locally but does not anonymize your online activities."
+    },
+    "cookiesTitle": "Cookies used",
+    "thirdPartyCookiesInfo": {
+      "title": "Integrations or modifications of information about third-party cookies",
+      "content": "The site manager is not responsible for subsequent changes to third-party policies accessible through provided links. This policy refers exclusively to cookies on this site. When accessing other sites via these links, users are subject to those sites' policies and are advised to review them. For more information about interest-based advertising and how to disable it, visit the relevant site."
+    },
+    "contactData": {
+      "title": "Contact",
+      "content": "If you have any questions about this cookie policy, please contact us at",
+      "email": "rosemaryveggiefood@gmail.com"
+    },
+    "cookieNotice": {
+      "message": "We use cookies to enhance your browsing experience. This site does not use analytics or advertising cookies; it is purely informational. Please refer to our ",
+      "linkText": "cookie policy",
+      "messageEnd": " for more details.",
+      "acceptButton": "Accept",
+      "declineButton": "Decline"
+    }
+  },
+  "footer": {
+    "text": "Rosemary. All rights reserved.",
+    "cookiesPolicy": "Cookies Policy",
+    "privacyPolicy": "Privacy Policy"
+  },
+  "openingHours": {
+    "title": "We’re waiting for you to experience delicious and conscious dining ",
+    "subtitle": "Discover the new veggie experience in the heart of Alicante’s Old Town! 🌿",
+    "address": "📍 Calle Mayor, 41",
+    "days": "🍴 Open from Tuesday to Saturday:",
+    "openingHour": "🕘 9:00 AM to 4:00 PM",
+    "closingHour": "🕖 7:00 PM to 11:00 PM"
+  },
+  "gallerySection": {
+    "title": "Your new favorite brunch in Alicante"
+  },
+  "messageSection": {
+    "title": "Join us for fresh, healthy, and flavorful dishes in a unique setting.",
+    "subtitle": "We’re here to revolutionize the way you eat!"
+  },
+  "menuSection": {
+    "title": "Explore our menu",
+    "menu-button": "View Menu"
+  }
+}

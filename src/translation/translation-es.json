@@ -1,0 +1,234 @@
+{
+  "navbar": {
+    "menu": "Menu",
+    "about-us": "Sobre nosotros",
+    "contact": "Contacto"
+  },
+  "about-us": {
+    "title": "Sobre nosotros",
+    "description": "Bienvenidos a Rosemary, tu nuevo rincón vegano en el corazón de Alicante. Aquí nos apasiona ofrecer comida deliciosa, saludable y ecológica que te haga sentir bien por dentro y por fuera. En Rosemary, creamos platos irresistibles con ingredientes frescos y locales, siempre con un toque mediterráneo. Desde coloridas ensaladas hasta bowls nutritivos y postres deliciosos, nuestras recetas están llenas de sabor y bienestar. ¡Nos importa el planeta! Por eso, apostamos por la sostenibilidad, apoyando a agricultores locales y utilizando ingredientes de temporada. Ya seas vegano o simplemente curioso, ven a disfrutar de comida sabrosa, buena para ti y para el medio ambiente. Come fresco, vive verde y disfruta cada bocado en Rosemary."
+  },
+  "menu": {
+    "title": "Menu",
+    "description": "Desde street food hasta platos del día, ensaladas, sopas, bebidas y postres. Siempre ofrecemos opciones sin gluten en el menú, identificadas con el símbolo ϒ. Para otras alergias o intolerancias, pregunta a nuestro personal o consulta la lista de ingredientes. Nuestro pan, hecho con harina integral, está fermentado con masa madre."
+  },
+  "contact": {
+    "location": "Donde estamos",
+    "contact": "Contacto",
+    "social-media": "Siguenos"
+  },
+  "privacyPolicy": {
+    "title": "Privacidad",
+    "greeting": "Estimado usuario,",
+    "intro": "ROSEMARY en calidad de titular de los datos, desea suministrarle información sobre los datos de navegación adquiridos accediendo a la dirección rosemaryveggie.com, conforme al art. 13 del Reglamento de la UE 2016/679 - Código en materia de protección de los datos personales, respetando la Directiva sobre las Comunicaciones Electrónicas 2009/136/CE, la directiva 2002/58/CE relativa al tratamiento de los datos personales y a la protección de la vida privada en el sector de las comunicaciones electrónicas, y el Reglamento de carácter general del 8 de mayo de 2014 del Garante para la protección de los datos personales.",
+    "dataProcessingLocation": {
+      "title": "Lugar del tratamiento de los datos",
+      "content": "Los tratamientos relacionados con el sitio Web tienen lugar en los servidores que lo alojan, bajo la responsabilidad de los proveedores de banda y dominio. No se difundirá ningún dato derivado del servicio Web. Para más información, consulte la ",
+      "linkText": " Política de Privacidad de GoDaddy"
+    },
+    "contactInfoUsage": {
+      "title": "Uso de la información de contacto",
+      "content": "La información proporcionada por las personas interesadas a través del form de contacto será utilizada únicamente con el propósito de establecer contacto. No se utilizará esta información para ningún otro fin y no se compartirá con terceros."
+    },
+    "dataAccessSubjects": {
+      "title": "Sujetos que pueden tomar conocimiento de sus datos personales",
+      "content": "Para los fines relacionados con el suministro del servicio requerido, los datos podrán ser tratados por encargados del tratamiento para gestionar los servicios, puestos a disposición por empresas de terceros expresamente autorizadas, que llevan a cabo actividades de soporte, como se especifica en la tabla que reúne los tipos de uso de los datos. Los datos personales no serán difundidos."
+    },
+    "dataProvision": {
+      "title": "Suministro de los datos",
+      "content": "No hay provisión de datos."
+    },
+    "navigationData": {
+      "title": "Datos de navegación",
+      "content": "Los sistemas informáticos y los procedimientos de software para el funcionamiento de este sitio Web podrían adquirir, en el transcurso de su funcionamiento normal, algunos datos cuyo envío está implícito en el uso de los protocolos de comunicación de Internet."
+    },
+    "navigationDataDetail": "En esta categoría de datos podrían incluirse las direcciones IP o los nombres de dominio de los ordenadores utilizados por los usuarios que se conectan al sitio, la dirección en notación URI (Uniform Resource Identifier) de los recursos requeridos, el horario de la solicitud, el método utilizado para enviar la solicitud al servidor, la dimensión del fichero obtenido como respuesta, el código numérico que indica el estado de la respuesta del servidor (éxito, error, etc.) y otros parámetros relativos al sistema operativo y al ambiente informático del usuario. Dicha información es gestionada solo si se activan los procedimientos de monitorización específicos.",
+    "cookiesReference": "Se remite a la Política de Cookies del sitio.",
+    "navigationDataAccess": {
+      "title": "Sujetos que pueden tomar conocimiento de sus datos de navegación",
+      "content": "Los datos de navegación podrán ser comunicados a terceros solo para cumplir con las obligaciones legales y las órdenes procedentes de autoridades públicas, para verificar responsabilidades en caso de hipotéticos delitos informáticos o para ejercer un derecho en sede judicial."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "content": "Se remite a la sección específica ",
+      "linkText": "Política de Cookies"
+    },
+    "rights": {
+      "title": "Los Derechos",
+      "intro": "Como parte interesada en el tratamiento, se le otorgan los derechos mencionados en los artículos. 15 - 22 del GDPR 2016/679 dirigiendo las solicitudes al Controlador de Datos:",
+      "access": "Acceso a sus datos, categorías de datos, destinatarios, almacenamiento, origen, etc. (Artículo 15)",
+      "correction": "La corrección de datos personales (Artículo 16)",
+      "deletion": "Cancelación de sus datos (\"derecho al olvido\") (Artículo 17)",
+      "limitation": "La limitación del procesamiento de los datos que le conciernen (Artículo 18)",
+      "opposition": "Oponerse al procesamiento de los datos que le conciernen para la realización de una tarea de interés público o relacionados con el ejercicio de la autoridad oficial, o tratados por interés legítimo del propietario o terceros (Artículo 21)",
+      "complaint": "Proponer una queja a la Autoridad de Supervisión (Artículo 77)"
+    },
+    "dataControllerContact": {
+      "contact": "Para ejercer sus derechos, puede contactar al Controlador de Datos en:",
+      "title": "Contacto del Controlador de Datos",
+      "address": "Dirección: Rosemary, Calle Mayor 41, 03002 Alicante, España",
+      "email": "Email: rosemaryveggiefood@gmail.com",
+      "phone": "Teléfono: +34 656 680 264"
+    }
+  },
+  "cookiePolicyData": {
+    "title": "Políticas de cookies",
+    "greeting": "Estimado usuario,",
+    "intro": "Rosemary, en dirección Calle Mayor 41, 03002 Alicante, España desea suministrar información sobre los cookies gestionados, accediendo a la dirección rosemaryveggie.com, respetando la Directiva sobre las Comunicaciones Electrónicas 2009/136/CE, de la directiva 2002/58/CE correspondiente al tratamiento de los datos personales y a la protección de la vida privada en el sector de las comunicaciones electrónicas y del Reglamento de carácter general del 8 de mayo de 2014 del Garante para la protección de los datos personales.",
+    "whatAreCookies": {
+      "title": "Qué son los cookies",
+      "content1": "Los cookies son pequeños archivos de texto que los sitios visitados por los usuarios envían a sus terminales, generalmente, se encuentran en la carpeta del buscador, donde se memorizan para luego ser reenviados a los mismos sitios en la visita posterior. Estos permiten a quien gestiona el sitio Web hacer cosas útiles, por ejemplo, mejorar la experiencia de navegación y el funcionamiento del sitio, logrando que las interacciones sean más rápidas y personalizadas, permiten al gestor de un sitio saber si un ordenador (y probablemente el respectivo usuario) ha visitado el sitio Web anteriormente o memorizar los artículos presentes en el carro, en caso de sitio de e-commerce.",
+      "content2": "El cookie no tiene en sí mismo naturaleza personal, pero podría relacionarse con información personal; en este último caso, necesitan, por ende, la autorización para el uso."
+    },
+    "cookieTypes": {
+      "title": "Tipos de cookies en función de las finalidades",
+      "technical": {
+        "title": "Cookies técnicos:",
+        "content": "son los utilizados con el único fin de \"enviar una comunicación, en una red de comunicación electrónica o en la medida estrictamente necesaria al proveedor de un servicio de la empresa, de la información explícitamente requerida por el abonado o por el usuario para suministrar este servicio\" (cfr. art. 122, inciso 1, del Código). Los mismos no se utilizan para otros fines y se instalan normal y directamente por el titular o el gestor del sitio Web. Pueden subdividirse en:",
+
+        "navigationOrSession": {
+          "title": "Cookies de navegación o de sesión:",
+          "content": "garantizan la navegación normal y el aprovechamiento del sitio Web, no se memorizan de forma persistente en el ordenador del usuario y se borran al cerrar el navegador (permitiendo, por ejemplo, realizar una compra o autenticarse para acceder a áreas reservadas)."
+        },
+        "analytics": {
+          "title": "Cookies analíticos:",
+          "content": "Asimilados a los cookies técnicos, cuando son utilizados directamente por el gestor del sitio para recabar información, de forma conjunta, acerca del número de usuarios y sobre cómo estos visitan el sitio."
+        },
+        "functionality": {
+          "title": "Cookies de funcionamiento:",
+          "content": "Permiten al usuario navegar en función de una serie de criterios seleccionados (por ejemplo, el idioma, los productos seleccionados para la compra) a fin de mejorar el servicio suministrado al mismo."
+        },
+        "installationNotice": "Para la instalación de dichos cookies, no se requiere la autorización previa de los usuarios."
+      },
+      "profiling": {
+        "title": "Cookies de perfil:",
+        "content": " están orientados a crear perfiles relativos al usuario y se utilizan a fin de enviar mensajes publicitarios en línea con las preferencias manifestadas por el mismo en el ámbito de la navegación en red. Debido a que estos dispositivos son particularmente invasivos en el ámbito de la esfera privada de los usuarios, la normativa europea e italiana prevén que el usuario debe ser adecuadamente informado sobre el uso de los mismos y expresar, de este modo, su autorización válida.",
+        "advertising": {
+          "title": "Publicitarios:",
+          "content": "Son los cookies utilizados para trazar la navegación del usuario en red y crear perfiles sobre sus gustos, hábitos, elecciones, etc. Con estos cookies pueden enviarse al terminal del usuario mensajes publicitarios acordes a las preferencias ya manifestadas por el mismo en la navegación en línea."
+        },
+        "behavioral": {
+          "title": "De comportamiento:",
+          "content": "Son los cookies utilizados para recoger datos sobre los hábitos de navegación y sobre las preferencias, elaborando perfiles y/o personalizaciones a fin de llevar a cabo investigaciones de mercado o de venta a distancia."
+        },
+        "installationNotice": "Para la instalación de dichos cookies, se requiere la autorización previa de los usuarios."
+      },
+      "cookieSubjects": {
+        "title": "Tipos de cookies en función de los sujetos involucrados",
+        "siteManagerCookies": {
+          "title": "Cookies del gestor del sitio:",
+          "content": "Si los cookies son instalados por el titular del sitio."
+        },
+        "thirdPartyCookies": {
+          "title": "Cookies de terceros:",
+          "content": "Si los cookies son instalados por sujetos diferentes del titular, quizás, a través de los banner presentes en el sitio."
+        }
+      },
+      "cookieDuration": {
+        "title": "Tipos de cookies en función de su duración",
+        "sessionCookies": {
+          "title": "Cookies de sesión:",
+          "content": "se borran automáticamente al finalizar la navegación."
+        },
+        "persistentCookies": {
+          "title": "Cookies persistentes",
+          "content": "Su duración es fijada por el servidor en el momento de su creación. En algunos casos se fija un vencimiento; en otros casos, la duración es ilimitada."
+        }
+      }
+    },
+    "userNotification": {
+      "title": "Modalidad de notificación al usuario y de obtención de su autorización",
+      "content": "Cuando se visita por primera vez el sitio, se visualiza un banner para informar que se utilizan cookies. El banner pregunta al usuario si desea más información y contiene un enlace para abrir la página correspondiente. Para proceder, necesitará una acción positiva del usuario sobre la aceptación de cookies el sitio memorizará un cookie técnico en el ordenador del usuario para registrar la elección. El usuario tiene la posibilidad de eliminar un cookie en cualquier momento, a través de las configuraciones del navegador."
+    },
+
+    "browserInstructions": {
+      "title": "Cómo habilitar/deshabilitar los cookies mediante el navegador",
+      "content": "Se pueden aceptar o rechazar los cookies o decidir recibir un mensaje de aviso antes de aceptar un cookie de los sitios Web visitados modificando las configuraciones del navegador. Deshabilitando completamente los cookies en el navegador, nuestro sitio podría no responder del mismo modo.",
+      "content2": "Se pueden eliminar todos los cookies instalados en la carpeta de los cookies del navegador. Cada navegador presenta diferentes procedimientos para la gestión de las configuraciones, por ende, a continuación se citan las instrucciones para cada tipo:"
+    },
+    "contact": {
+      "title": "Contacto",
+      "content": "Si tiene alguna pregunta sobre esta política de cookies, puede contactarnos en",
+      "email": "rosemaryveggiefood@gmail.com"
+    },
+
+    "cookiesTable": [
+      {
+        "name": "_tccl_visitor",
+        "description": "Recopila datos agregados y anonimizados sobre el rendimiento del sitio.",
+        "type": "Análisis",
+        "management": "GoDaddy",
+        "duration": "1 año"
+      },
+      {
+        "name": "_tccl_visit",
+        "description": "Recopila datos anonimizados para mejorar el rendimiento del sitio.",
+        "type": "Análisis",
+        "management": "GoDaddy",
+        "duration": "1 hora"
+      },
+      {
+        "name": "_scc_session",
+        "description": "Gestiona la sesión del usuario.",
+        "type": "Otro",
+        "management": "Interno",
+        "duration": "20 min"
+      }
+    ],
+    "thirdPartyCookiesBlocking": {
+      "title": "Bloqueo de los cookies de terceros",
+      "content": "Los cookies de terceros generalmente no son indispensables para navegar; puede rechazarlos por defecto a través de las funciones del navegador o instalando el componente adicional Ghostery al navegador que se utiliza para navegar."
+    },
+    "doNotTrackOption": {
+      "title": "Opción Do Not Track",
+      "content": "La opción Do Not Track está presente en la mayor parte de los navegadores. Los sitios Web diseñados para respetar esta opción, cuando se la activa, automáticamente deberían dejar de recabar algunos de sus datos de navegación."
+    },
+    "incognitoMode": {
+      "title": "Activar la modalidad de \"navegación de incógnito\"",
+      "content": "Mediante esta función se puede navegar sin dejar traza en el navegador de los datos de navegación. Los sitios no memorizan las páginas visitadas; la cronología y los nuevos cookies se borrarán.",
+      "content2": " La función de navegación de incógnito no garantiza el anonimato en Internet; se utiliza para no mantener los datos de navegación en el navegador, pero estos continuarán a disposición de los gestores de los sitios Web y de los proveedores del servicio de Internet."
+    },
+    "cookiesTitle": "Cookies utilizadas",
+    "thirdPartyCookiesInfo": {
+      "title": "Integraciones o modificaciones de la información sobre los cookies de terceros",
+      "content": "El gestor del sitio no será responsable por modificaciones posteriores o integraciones de las políticas de terceros a las cuales puede accederse mediante las direcciones mencionadas detalladamente. Acceso a otros sitios a través de los enlaces presentes. La presente política se refiere exclusivamente a la gestión de los cookies del presente sitio; si el usuario hace clic en enlaces de otros sitios estará sujeto a la política de estos últimos, se recomienda leerla. Para más información sobre la publicidad basada en los aspectos de interés y sobre cómo desactivar esta función, entre al sitio."
+    },
+    "contactData": {
+      "title": "Contacto",
+      "content": "Si tiene alguna pregunta sobre esta política de cookies, puede contactarnos en",
+      "email": "rosemaryveggiefood@gmail.com"
+    },
+    "cookieNotice": {
+      "message": "Utilizamos cookies para mejorar tu experiencia de navegación. No utilizamos analíticas o publicidad, es un sitio con objetivo informativo. Consulta nuestra ",
+      "linkText": "política de cookies",
+      "messageEnd": " para más detalles.",
+      "acceptButton": "Aceptar",
+      "declineButton": "Rechazar"
+    }
+  },
+
+  "footer": {
+    "text": "Rosemary. Todos los derechos reservados.",
+    "cookiesPolicy": "Política de Cookies",
+    "privacyPolicy": "Política de Privacidad"
+  },
+  "openingHours": {
+    "title": "Te esperamos para vivir una experiencia deliciosa y consciente",
+    "subtitle": "Nos encontramos en el corazón del casco antiguo de Alicante 🌿",
+    "address": "📍 Calle Mayor, 41",
+    "days": "🍴 Abierto de martes a sábados:",
+    "openingHour": "🕘 9:00 a 16:00",
+    "closingHour": "🕖 19:00 a 23:00"
+  },
+  "gallerySection": {
+    "title": "Tu nuevo brunch favorito en Alicante"
+  },
+  "messageSection": {
+    "title": "Ven a disfrutar de platos frescos, saludables y llenos de sabor en un ambiente único.",
+    "subtitle": "¡Te esperamos para revolucionar tu forma de comer!"
+  },
+  "menuSection": {
+    "title": "Explora nuestro menu",
+    "menu-button": "ver menu"
+  }
+}
